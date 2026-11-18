@@ -1,0 +1,32 @@
+[
+  {
+    "data": "2026-11-18 18:19:22",
+    "origem": "pergunta",
+    "pergunta": "cpf",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo_segundos": 66.8
+  },
+  {
+    "data": "2026-11-18 18:20:10",
+    "origem": "categoria",
+    "pergunta": "Fazer o alistamento militar",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 32.5
+  },
+  {
+    "data": "2026-11-18 18:20:34",
+    "origem": "categoria",
+    "pergunta": "Procurar vagas de emprego no SINE",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 15.1
+  }
+]

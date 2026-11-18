@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Fazer ou regularizar o CPF",
+    "palavras_chave": ["cpf", "tirar cpf", "fazer cpf", "cadastro de pessoa fisica", "inscricao no cpf"],
+    "resposta": "O CPF é o número que identifica você em serviços públicos e no trabalho. Você pode pedir o seu pelo site da Receita Federal ou em órgãos que fazem esse atendimento. Veja na fonte se existe cobrança em cada local.",
+    "documentos": ["Documento de identificação oficial (confirme a lista na fonte)"],
+    "onde": "Site da Receita Federal ou unidades de atendimento credenciadas",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": ["gov br", "conta gov br", "login gov br", "govbr", "conta do governo"],
+    "resposta": "A conta gov.br é um login único para usar serviços do governo pela internet. Você cria a conta no site ou no aplicativo gov.br, informando seu CPF e confirmando seus dados. Alguns serviços pedem um nível de segurança maior da conta.",
+    "documentos": ["CPF"],
+    "onde": "Site ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/governodigital",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 3,
+    "categoria": "Trabalho",
+    "titulo": "Acessar a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "carteira digital", "ctps", "ctps digital"],
+    "resposta": "A Carteira de Trabalho Digital funciona pelo aplicativo Carteira de Trabalho Digital e também pelo portal gov.br. Você entra com a sua conta gov.br e vê seus contratos de trabalho registrados.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho",
+    "titulo": "Primeiro emprego: registro em carteira de trabalho",
+    "palavras_chave": ["registro em carteira", "carteira assinada", "contrato de trabalho", "primeiro emprego", "meu primeiro emprego"],
+    "resposta": "Quem trabalha com carteira assinada deve ter o contrato registrado pelo empregador. Depois do registro, confira se os dados aparecem na Carteira de Trabalho Digital. Se algo estiver errado ou o registro não for feito, procure o Ministério do Trabalho e Emprego.",
+    "documentos": ["CPF", "Documento com foto"],
+    "onde": "Ministério do Trabalho e Emprego (canais oficiais de atendimento)",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Entender o programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "aprendizagem", "contrato de aprendizagem", "menor aprendiz"],
+    "resposta": "O contrato de aprendizagem une trabalho e curso de formação profissional. Em geral, é voltado a jovens de 14 a 24 anos, com regras próprias. Confira as condições na fonte.",
+    "documentos": ["Documento com foto", "CPF"],
+    "onde": "Empresas e instituições de formação que oferecem aprendizagem",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego no SINE",
+    "palavras_chave": ["sine", "vagas de emprego", "procurar emprego", "buscar emprego", "emprega brasil"],
+    "resposta": "O SINE ajuda quem procura emprego a encontrar vagas e fazer cadastro. O atendimento é feito nas unidades do SINE da sua cidade e em serviços digitais do governo, como o Emprega Brasil.",
+    "documentos": ["Documento com foto", "CPF"],
+    "onde": "Unidade do SINE da sua cidade ou Emprega Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Consultar o FGTS",
+    "palavras_chave": ["fgts", "fundo de garantia", "saldo do fgts", "extrato do fgts", "app fgts"],
+    "resposta": "O FGTS é um dinheiro que o empregador deposita em nome de quem trabalha com carteira assinada. Você consulta saldo e extrato pelo aplicativo FGTS ou nas agências da Caixa.",
+    "documentos": ["CPF", "Documento com foto"],
+    "onde": "Aplicativo FGTS ou agência da Caixa",
+    "fonte": "https://www.caixa.gov.br",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Consultar contribuições no Meu INSS",
+    "palavras_chave": ["inss", "meu inss", "contribuicao", "contribuicoes", "extrato de contribuicao"],
+    "resposta": "O Meu INSS é o aplicativo e site do INSS. Com sua conta gov.br você consulta suas contribuições e vê serviços como aposentadoria e benefícios.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo ou site Meu INSS",
+    "fonte": "https://www.gov.br/inss",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 9,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": ["titulo de eleitor", "titulo eleitoral", "tirar titulo", "primeiro titulo", "cartorio eleitoral", "alistamento eleitoral"],
+    "resposta": "O voto é opcional para quem tem 16 ou 17 anos e obrigatório a partir dos 18. O pedido do título é feito pelo site do TSE ou em um cartório eleitoral. Confira na fonte as etapas e os documentos exigidos.",
+    "documentos": ["Documento oficial com foto", "Comprovante de residência", "Quitação do serviço militar (para homens maiores de 18 anos)"],
+    "onde": "Site do TSE ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 10,
+    "categoria": "Cidadania",
+    "titulo": "Usar o e-Título (título de eleitor digital)",
+    "palavras_chave": ["e-titulo", "etitulo", "titulo digital", "aplicativo e titulo", "titulo no celular"],
+    "resposta": "O e-Título é o título de eleitor no celular, em aplicativo do TSE. Nele você consulta seus dados e sua situação eleitoral. Para ativar, siga as instruções do aplicativo.",
+    "documentos": ["Dados de eleitor (número do título ou CPF)", "Celular com o aplicativo instalado"],
+    "onde": "Aplicativo e-Título (TSE)",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 11,
+    "categoria": "Cidadania",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": ["alistamento militar", "alistamento", "servico militar", "reservista", "certificado de alistamento"],
+    "resposta": "O alistamento militar é obrigatório para homens brasileiros no ano em que completam 18 anos. Ele pode ser feito pela internet ou em uma Junta de Serviço Militar. Veja na fonte o prazo e o passo a passo.",
+    "documentos": ["Documento oficial com foto", "CPF"],
+    "onde": "Site de alistamento online ou Junta de Serviço Militar",
+    "fonte": "https://www.gov.br/defesa",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 12,
+    "categoria": "Documentos",
+    "titulo": "Pedir a Carteira de Identidade (RG)",
+    "palavras_chave": ["rg", "carteira de identidade", "identidade", "cin", "carteira de identidade nacional", "segunda via do rg"],
+    "resposta": "A carteira de identidade (RG ou Carteira de Identidade Nacional) é emitida pelos órgãos de identificação de cada estado. As regras, os documentos e o agendamento mudam de um estado para outro. Procure o site do órgão do seu estado.",
+    "documentos": ["Certidão de nascimento ou de casamento", "CPF (confirme a lista no seu estado)"],
+    "onde": "Órgão de identificação do seu estado",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "PENDENTE"
+  }
+]
