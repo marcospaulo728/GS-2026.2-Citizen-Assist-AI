@@ -8,7 +8,7 @@
     "documentos": ["Documento de identificação oficial"],
     "onde": "Site da Receita Federal ou unidades de atendimento credenciadas",
     "fonte": "https://www.gov.br/receitafederal",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "documentos": ["CPF"],
     "onde": "Site ou aplicativo gov.br",
     "fonte": "https://www.gov.br/governodigital",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "documentos": ["CPF", "Conta gov.br"],
     "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
     "fonte": "https://www.gov.br/trabalho-e-emprego",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "documentos": ["CPF", "Documento com foto"],
     "onde": "Ministério do Trabalho e Emprego (canais oficiais de atendimento)",
     "fonte": "https://www.gov.br/trabalho-e-emprego",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "documentos": ["Documento com foto", "CPF"],
     "onde": "Empresas e instituições de formação que oferecem aprendizagem",
     "fonte": "https://www.gov.br/trabalho-e-emprego",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "documentos": ["Documento com foto", "CPF"],
     "onde": "Unidade do SINE da sua cidade ou Emprega Brasil",
     "fonte": "https://www.gov.br/trabalho-e-emprego",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "documentos": ["CPF", "Documento com foto"],
     "onde": "Aplicativo FGTS ou agência da Caixa",
     "fonte": "https://www.caixa.gov.br",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "documentos": ["CPF", "Conta gov.br"],
     "onde": "Aplicativo ou site Meu INSS",
     "fonte": "https://www.gov.br/inss",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "documentos": ["Documento oficial com foto", "Comprovante de residência", "Quitação do serviço militar (para homens maiores de 18 anos)"],
     "onde": "Site do TSE ou cartório eleitoral",
     "fonte": "https://www.tse.jus.br",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "documentos": ["Dados de eleitor (número do título ou CPF)", "Celular com o aplicativo instalado"],
     "onde": "Aplicativo e-Título (TSE)",
     "fonte": "https://www.tse.jus.br",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "documentos": ["Documento oficial com foto", "CPF"],
     "onde": "Site de alistamento online ou Junta de Serviço Militar",
     "fonte": "https://www.gov.br/defesa",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   },
   {
     "id": 12,
@@ -129,6 +129,6 @@
     "documentos": ["Certidão de nascimento ou de casamento", "CPF (confirme a lista no seu estado)"],
     "onde": "Órgão de identificação do seu estado",
     "fonte": "https://www.gov.br",
-    "verificado_em": "10/11/2026"
+    "verificado_em": "2026-11-10"
   }
 ]
