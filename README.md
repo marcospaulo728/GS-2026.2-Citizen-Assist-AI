@@ -3,12 +3,12 @@
 Projeto integrado da Global Solution 2026.2 (CitizenTech) para as disciplinas
 **Pensamento Computacional e Automação com Python (PCP)** e **Data Structures and Algorithms (DSA)**.
 
-## Integrantes
+## Integrantes 1CCR
 | Nome | RM |
 |---|---|
 | Marcos Paulo Sampaio | 573987 |
 | Gabriela Angel Silva | 570808 |
-| Izabelly Menezes | 570673 |
+| Izabelly Menezes | 570673 | ---> Apenas na disciplina de DSA
 
 ## Público e problema
 **Público:** jovens no primeiro emprego.
@@ -80,6 +80,7 @@ citizen-assist-ai/
 | Pesquisa por texto | O(n·L) |
 | Remoção | O(n) |
 | Merge Sort | O(n log n) |
+
 Justificativas completas na documentação técnica. Busca binária não é usada porque a lista
 encadeada não tem acesso por índice em O(1).
 
@@ -92,16 +93,22 @@ canal oficial. JSON ausente ou corrompido não trava o programa.
 Resposta encontrada (%), taxa de acerto: ajudou (%) (sobre o total de atendimentos), tempo médio para
 encontrar, tentativas por atendimento, facilidade de uso (1 a 5) e lista de dúvidas sem solução.
 
-## Fontes consultadas
-[URL]
+## Fontes consultadas (10/11/2026)
+- https://www.gov.br/receitafederal
+- https://www.gov.br/governodigital
+- https://www.gov.br/trabalho-e-emprego
+- https://www.caixa.gov.br
+- https://www.gov.br/inss
+- https://www.tse.jus.br
+- https://www.gov.br/defesa
+- https://www.gov.br
 
 ## Teste com usuários
-- Pessoas externas à equipe: []
-- Atendimentos totais: []
-- Resposta encontrada (%): []  | Taxa de acerto (%): []
-- Tempo médio para encontrar: [] | Tentativas por atendimento: [] | Facilidade (1–5): []
-- Dúvidas sem solução: []
-- Melhoria feita a partir do teste: []
+- Pessoas externas à equipe: 3
+- Atendimentos totais: 14
+- Resposta encontrada: 64.3%  | Taxa de acerto: 64.3%
+- Tempo médio para encontrar: 21.7 s | Tentativas por atendimento: 1.2 | Facilidade (1–5): 4
+- Melhoria feita a partir do teste: Inserção de novas palavras-chave
 
 ## Limitações
 - Busca por regras: não entende sinônimos, erros de digitação nem contexto.
@@ -110,4 +117,4 @@ encontrar, tentativas por atendimento, facilidade de uso (1 a 5) e lista de dúv
 - Registros inválidos no JSON são ignorados ao carregar e removidos na próxima gravação.
 
 ## Vídeo técnico
-[link]
+https://youtu.be/lX-ua0KCt4w
