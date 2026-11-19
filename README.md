@@ -3,12 +3,14 @@
 Projeto integrado da Global Solution 2026.2 (CitizenTech) para as disciplinas
 **Pensamento Computacional e Automação com Python (PCP)** e **Data Structures and Algorithms (DSA)**.
 
-## Integrantes 1CCR
+## Integrantes • 1CCR
 | Nome | RM |
 |---|---|
 | Marcos Paulo Sampaio | 573987 |
 | Gabriela Angel Silva | 570808 |
-| Izabelly Menezes | 570673 | ---> Apenas na disciplina de DSA
+| Izabelly Menezes | 570673 | 
+
+Izabelly Menezes ---> Apenas na disciplina de DSA!
 
 ## Público e problema
 **Público:** jovens no primeiro emprego.
